@@ -14,6 +14,7 @@
 * cd [working-directory]
 * pyenv local udemy-python-data-science-jp_3.5.0
 * pip install jupyter
+* python3 -m IPython kernelspec install-self #required if python3
 * jupyter notebook #=> run jupyter notebook
 
 * and add some external libraries on demand
